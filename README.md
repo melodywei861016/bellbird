@@ -2,10 +2,10 @@
 A website that allows visitors to create alarms (which will send a push notification to the user's phone) and upvote alarms
 
 ## Instructions to Set Up
--On Terminal:
+On Terminal:
   - `cd` into the `bellbird` folder
   - call the `rails s` command in terminal
--On the Web Browser:
+On the Web Browser:
   - go to the url: `localhost:3000`
   
  ## Assumptions

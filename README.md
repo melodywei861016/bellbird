@@ -4,7 +4,8 @@ A website that allows visitors to create alarms (which will send a push notifica
 ## Instructions to Set Up
 On Terminal:
   - `cd` into the `bellbird` folder
-  - call the `rails s` command in terminal
+  - call the `rake db:seed` command in terminal to get the database in `seed.rb`
+  - call the `rails s` command in terminal to start the server
   
 On the Web Browser:
   - go to the url: `localhost:3000`
